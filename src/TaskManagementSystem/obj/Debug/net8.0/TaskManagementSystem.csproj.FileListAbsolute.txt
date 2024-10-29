@@ -1,0 +1,14 @@
+/Users/yehuda/Downloads/Studies/c#/TaskManagementSystem/src/TaskManagementSystem/bin/Debug/net8.0/TaskManagementSystem
+/Users/yehuda/Downloads/Studies/c#/TaskManagementSystem/src/TaskManagementSystem/bin/Debug/net8.0/TaskManagementSystem.deps.json
+/Users/yehuda/Downloads/Studies/c#/TaskManagementSystem/src/TaskManagementSystem/bin/Debug/net8.0/TaskManagementSystem.runtimeconfig.json
+/Users/yehuda/Downloads/Studies/c#/TaskManagementSystem/src/TaskManagementSystem/bin/Debug/net8.0/TaskManagementSystem.dll
+/Users/yehuda/Downloads/Studies/c#/TaskManagementSystem/src/TaskManagementSystem/bin/Debug/net8.0/TaskManagementSystem.pdb
+/Users/yehuda/Downloads/Studies/c#/TaskManagementSystem/src/TaskManagementSystem/obj/Debug/net8.0/TaskManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yehuda/Downloads/Studies/c#/TaskManagementSystem/src/TaskManagementSystem/obj/Debug/net8.0/TaskManagementSystem.AssemblyInfoInputs.cache
+/Users/yehuda/Downloads/Studies/c#/TaskManagementSystem/src/TaskManagementSystem/obj/Debug/net8.0/TaskManagementSystem.AssemblyInfo.cs
+/Users/yehuda/Downloads/Studies/c#/TaskManagementSystem/src/TaskManagementSystem/obj/Debug/net8.0/TaskManagementSystem.csproj.CoreCompileInputs.cache
+/Users/yehuda/Downloads/Studies/c#/TaskManagementSystem/src/TaskManagementSystem/obj/Debug/net8.0/TaskManagementSystem.dll
+/Users/yehuda/Downloads/Studies/c#/TaskManagementSystem/src/TaskManagementSystem/obj/Debug/net8.0/refint/TaskManagementSystem.dll
+/Users/yehuda/Downloads/Studies/c#/TaskManagementSystem/src/TaskManagementSystem/obj/Debug/net8.0/TaskManagementSystem.pdb
+/Users/yehuda/Downloads/Studies/c#/TaskManagementSystem/src/TaskManagementSystem/obj/Debug/net8.0/TaskManagementSystem.genruntimeconfig.cache
+/Users/yehuda/Downloads/Studies/c#/TaskManagementSystem/src/TaskManagementSystem/obj/Debug/net8.0/ref/TaskManagementSystem.dll
